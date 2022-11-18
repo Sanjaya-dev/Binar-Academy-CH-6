@@ -6,9 +6,9 @@
 /** Destruct environment variable to get database configuration */
 const {
   DB_USERNAME = "postgres",
-  DB_PASSWORD = "admin",
-  DB_HOST = "127.0.0.1",
-  DB_NAME = "binar_ch_6_",
+  DB_PASSWORD = "WirfjSGYIfW61nvnDY1I",
+  DB_HOST = "containers-us-west-89.railway.app",
+  DB_NAME = "railway",
 } = process.env;
 
 module.exports = {
